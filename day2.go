@@ -8,4 +8,8 @@ func main(){
 	var c=5;
 	var mm=10;
 	var d=8;
+
+
+	var mm="lol"
+	fmt.Printr("%s",mm);
 }
