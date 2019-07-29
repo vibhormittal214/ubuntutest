@@ -6,8 +6,6 @@ func main(){
 	var b int =6;
 	fmt.Printf("%d",b);
 	var c=5;
-
 	var mm=10;
-	
 	var d=8;
 }
