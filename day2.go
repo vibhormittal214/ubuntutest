@@ -23,4 +23,6 @@ func main(){
 	var abc;
 	var hiii;
 	var sdf123;
+	var absddg
+	fbedh;
 }
