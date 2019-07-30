@@ -1,6 +1,7 @@
 package main
 import "fmt"
 func main(){
+	var bye;
 	var a int=5;
 	fmt.Printf("%d",a);
 	var b int =6;
@@ -14,9 +15,10 @@ func main(){
 	fmt.Printr("%s",mm);
 	var j;
 	rrjfej;
-	var today5;
+	var today9;
 	var ngngmn;
 	var yesterday;
 	var  fjhefjc;
 	var abc;
+	var hiii;
 }
