@@ -10,6 +10,7 @@ func main(){
 	fmt.Printf("%d",b);
 	var c=5;
     var mm=10;
+    var 1234;
     var d=8;
 	var mm="lol"
 	fmt.Printr("%s",mm);
