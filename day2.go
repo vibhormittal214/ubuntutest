@@ -22,5 +22,5 @@ func main(){
 	var  fjhefjc;
 	var abc;
 	var hiii;
-	var sdfabc;
+	var sdf123;
 }
