@@ -13,4 +13,5 @@ func main(){
 	var mm="lol"
 	fmt.Printr("%s",mm);
 	var j;
+	var ngngmn;
 }
