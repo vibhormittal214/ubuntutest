@@ -27,4 +27,6 @@ func main(){
 	var absddg
 	fbedh;
 	bugFix;
+
+	nonono;
 }
