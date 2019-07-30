@@ -25,4 +25,5 @@ func main(){
 	var sdf123;
 	var absddg
 	fbedh;
+	bugFix;
 }
