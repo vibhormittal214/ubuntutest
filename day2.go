@@ -26,4 +26,5 @@ func main(){
 	var master;
 	var absddg
 	fbedh;
+	bugFix;
 }
