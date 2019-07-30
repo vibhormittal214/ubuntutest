@@ -21,4 +21,5 @@ func main(){
 	var  fjhefjc;
 	var abc;
 	var hiii;
+	var sdf;
 }
