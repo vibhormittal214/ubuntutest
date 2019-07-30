@@ -24,4 +24,6 @@ func main(){
 	var hiii;
 	var sdf123;
 	var master;
+	var absddg
+	fbedh;
 }
