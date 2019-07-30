@@ -14,5 +14,6 @@ func main(){
 	fmt.Printr("%s",mm);
 	var j;
 	var ngngmn;
+	var yesterday;
 	var  fjhefjc;
 }
