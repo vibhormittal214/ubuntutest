@@ -18,4 +18,5 @@ func main(){
 	var ngngmn;
 	var yesterday;
 	var  fjhefjc;
+	var abc;
 }
