@@ -13,6 +13,8 @@ func main(){
 	var mm="lol"
 	fmt.Printr("%s",mm);
 	var j;
+	rrjfej;
+	var today;
 	var ngngmn;
 	var yesterday;
 	var  fjhefjc;
