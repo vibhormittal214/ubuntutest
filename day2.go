@@ -12,4 +12,5 @@ func main(){
     //	var d=8;
 	var mm="lol"
 	fmt.Printr("%s",mm);
+	var i;
 }
