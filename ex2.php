@@ -1,4 +1,5 @@
 <?php
+     $qw=5;
      $a=5;
      $b=6;
      $c=7;
@@ -17,4 +18,5 @@
      function print(){
           echo"printing";
      }
+     $d=9;
      ?>
