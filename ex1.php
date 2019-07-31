@@ -28,8 +28,6 @@
    	echo "workeds";
    	echo "workingg";
    	echo "working1";
-   	echo "hahaha";
-   	echo "workings";
-   	echo "no";
+   	echo "workingst";
    }
    ?>
