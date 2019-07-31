@@ -2,7 +2,7 @@
      $qw=5;
      $a=5;
      $b=6;
-     $c=80;
+     $c=81;
      function test1($a){
      	echo $a;
           echo "no2";
