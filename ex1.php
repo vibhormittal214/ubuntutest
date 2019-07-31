@@ -31,5 +31,6 @@
    	echo "new1";
    	echo "workingst";
    	echo "now2";
+   	echo "workingstnow";
    }
    ?>
