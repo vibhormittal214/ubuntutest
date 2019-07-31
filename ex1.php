@@ -28,6 +28,8 @@
    	echo "workeds";
    	echo "workingg";
    	echo "working1";
+   	echo "new1";
    	echo "workingst";
+   	echo "now2";
    }
    ?>
