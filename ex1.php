@@ -14,6 +14,7 @@
    	   var $c;
    	   function __construct($a){
    	   	  $this->c = $a;
+   	   	  echo "test1";
    	   }
    }
    function test(){
