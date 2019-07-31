@@ -6,7 +6,7 @@
      }
      function test2(){
      	echo "hello";
-     	$b=3;
+     	$c=3;
      	test1($b);
      }
      ?>
