@@ -2,16 +2,14 @@
      $qw=5;
      $a=5;
      $b=6;
-     $aa=5;
      $c=814;
-     $bb=6;
-     $dd=9;
      function test1($a){
      	echo $a;
           echo "no2";
           echo "no1";
           echo "change1";
      }
+     $insert1test=55;
      function test2(){
      	echo "yes";
      	$c=3;
