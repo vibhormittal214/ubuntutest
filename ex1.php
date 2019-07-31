@@ -21,5 +21,6 @@
    }
    function test1(){
    	echo "this is another test function";
+   	echo "worked";
    }
    ?>
