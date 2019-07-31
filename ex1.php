@@ -25,12 +25,5 @@
    }
    function test1(){
    	echo "this is another test function";
-   	echo "workeds";
-   	echo "workingg";
-   	echo "working1";
-   	echo "new1";
-   	echo "workingst";
-   	echo "now2";
-   	echo "workingstnow";
    }
    ?>
