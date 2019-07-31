@@ -7,6 +7,7 @@
    	   }
    	   function set($a){
            $this->b=$a;
+           echo " testing";
    	   }
    }
    class B{
@@ -17,5 +18,8 @@
    }
    function test(){
    	   echo "this is a test funcion";
+   }
+   function test1(){
+   	echo "this is another test function";
    }
    ?>
