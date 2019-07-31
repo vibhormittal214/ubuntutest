@@ -2,7 +2,7 @@
      $a=5;
      function test1($a){
      	echo $a;
-          echo "no";
+          echo "no1";
      }
      function test2(){
      	echo "hello";
