@@ -25,6 +25,6 @@
    	   echo "another test";
    }
    function test1(){
-   	echo "this is another test function";
+   	echo "this is another test function1";
    }
    ?>
