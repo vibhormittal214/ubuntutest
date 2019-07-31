@@ -18,6 +18,7 @@
    	   }
    }
    function test(){
+   	   echo "hey";
    	   echo "this is a test funcion";
    	   echo "test3";
    }
