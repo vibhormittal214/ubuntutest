@@ -25,5 +25,6 @@
    }
    function test1(){
    	echo "this is another test function1";
+   	echo "new test line";
    }
    ?>
