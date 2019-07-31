@@ -19,6 +19,7 @@
    }
    function test(){
    	   echo "this is a test funcion";
+   	   echo "test3";
    }
    function test1(){
    	echo "this is another test function";
